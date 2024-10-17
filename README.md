@@ -1,2 +1,2 @@
 "# Les6GITCo-p" 
-# Hi people, i'm a freak. 
+# Hi people, i'm not a freak. 
